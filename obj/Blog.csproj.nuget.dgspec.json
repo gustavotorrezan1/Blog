@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Blog\\Blog.csproj": {}
+    "C:\\dev\\Desafio\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Blog\\Blog.csproj": {
+    "C:\\dev\\Desafio\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\dev\\Desafio\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\dev\\Blog\\Blog.csproj",
+        "projectPath": "C:\\dev\\Desafio\\Blog.csproj",
         "packagesPath": "C:\\Users\\Greice Lasznaster\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Blog\\obj\\",
+        "outputPath": "C:\\dev\\Desafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Greice Lasznaster\\AppData\\Roaming\\NuGet\\NuGet.Config"

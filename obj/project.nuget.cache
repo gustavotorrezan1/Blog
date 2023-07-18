@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+W2cc04jVykyNRH1gXiKaJ7Qel7oetDZIkyCX5pjJKDRsWCE+oVkH3oZMfcydkkqOoUe1uT3l64SPZk2l53rA==",
+  "dgSpecHash": "N/SywlnMRe8YEx4DHj3WggdWw03DEB5afOyijIPJ+cOFXRuWYjuqzkJZY9o5fXA71zy4mNpJVtUR7WrY89yYGA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Blog\\Blog.csproj",
+  "projectFilePath": "C:\\dev\\Desafio\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Greice Lasznaster\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Greice Lasznaster\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
